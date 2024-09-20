@@ -6,13 +6,13 @@
 
 **What it do?:**  This script performs the follwoing fuctions (with more to come).
 
-1.  Update the system
-2.  Install a list of applications
-3.  Provide useful system information back to the terminal
+1. Update the system
+2. Install a list of applications
+3. Provide useful system information back to the terminal
 
 **Usage:**
 
-1.   Local:  chmod +x setup.sh && ./setup.sh
-2.   Remote: curl -s [https://domain.com/setup.sh](https://domain.com/setup.sh) | bash
+1. Local:  chmod +x setup.sh && ./setup.sh
+2.  Remote: curl -s [https://domain.com/setup.sh](https://domain.com/setup.sh) | bash
 
 **Misc:** This is a Generative AI created program that was crafted from a PROMPT file.  See PROMPT.md for details.
