@@ -1,6 +1,6 @@
 # BaseGo
 
-![BaseGo-Logo.jpg](/home/ashley/Pictures/Logos/BaseGo-Logo.jpg)
+
 
 **Premise:** BaseGo taken from the idea of Go to the Base setup now.  
 
