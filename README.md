@@ -2,6 +2,8 @@
 
 
 
+![BaseGo-Logo.jpg](/home/ashley/GIT/ashes00/BaseGo/images/BaseGo-Logo.jpg)
+
 **Premise:** BaseGo taken from the idea of Go to the Base setup now.  
 
 **Note:** Its really just a simple automation script for provisioning an Ubuntu system after installation.  This script is not meant to be the end all automation provision script.   It was created out of a basic need to to ensure newly crerated systems meet a known level of setup.  This saves a ton of time when setting up multiple fresh systems.
