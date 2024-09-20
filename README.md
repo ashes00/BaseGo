@@ -2,7 +2,7 @@
 
 
 
-![BaseGo-Logo.jpg](/home/ashley/GIT/ashes00/BaseGo/images/BaseGo-Logo.jpg)
+![BaseGo-Logo.jpg](/images/BaseGo-Logo.jpg)
 
 **Premise:** BaseGo taken from the idea of Go to the Base setup now.  
 
