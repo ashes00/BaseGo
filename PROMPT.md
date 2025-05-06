@@ -20,4 +20,4 @@ Write a bash scrip that does the following.
     C. Display $Info Text should be in color yellow  
     D. Exit $Report module
 
-Program Flow = Run $Update, Run $Report, Exit.
+Program Flow = Run $Update, Run $Report, Exit..
